@@ -1,0 +1,12 @@
+node_modules/
+.next/
+dist/
+build/
+
+.env
+.env.*
+!.env.example
+
+backend/uploads/
+npm-debug.log*
+.DS_Store
